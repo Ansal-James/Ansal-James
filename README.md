@@ -1,5 +1,7 @@
 <!-- 🌈 Gradient Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey%20I'm%20Ansal✨&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Ansal-James/Ansal-James/output/snake.svg#gh-light-mode-only)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Ansal-James/Ansal-James/output/snake-dark.svg#gh-dark-mode-only)
 
 # 💫 About Me  
 👋 Hey there, I'm **Ansal**!  
