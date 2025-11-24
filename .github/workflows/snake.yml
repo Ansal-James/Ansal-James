@@ -14,8 +14,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
-      - name: Generate Github Snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Ansal-James
@@ -24,7 +26,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
 
-      - name: Upload Snake to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
