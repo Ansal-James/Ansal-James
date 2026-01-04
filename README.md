@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33F5F5&center=true&vCenter=true&width=435&lines=Building+Clean+Web+Apps;Learning+C%23+and+.NET+Backend;Always+Debugging+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
   </a>
 </div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansal-James/Ansal-James/output/snake-dark.svg">
